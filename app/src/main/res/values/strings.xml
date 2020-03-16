@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Click 2 Forword</string>
+    <string name="send_message">Send Message</string>
+    <string name="exit">Exit</string>
+</resources>
