@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Exit(View view) {
+        //tot
         AlertDialog.Builder ab = new AlertDialog.Builder(MainActivity.this);
         ab.setMessage( "Do You Wants To Exit !!" ).setCancelable( false ).setPositiveButton( "Yes", new DialogInterface.OnClickListener() {
             @Override
